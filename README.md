@@ -4,5 +4,9 @@ An application for parsing the XML schema for Lion's Den software's FightClub5 a
 
 ## License
 
-Some sort of Creative Commons license, once I figure out which.
+TBD
+
+## Task list
+
+* Find a suitable software license for this.
 
